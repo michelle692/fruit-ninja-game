@@ -106,7 +106,7 @@ void fruit_create(void){
 void fruit_update_position(void){
 
     
-    //controls how fast the fruit will move
+    //controls how fast the fruits will move
     int rate = FRUIT_SPEED;
     //delta_x and delta_y account for the slope of the fruit
     DrawFunc draw = NULL;
